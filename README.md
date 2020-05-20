@@ -3,7 +3,7 @@ Disables the portraits from the Avatar - Four Nations Restored mod (CK2)
 
 Requirements:
 
--Avatar - Four Nations Restored (https://github.com/Rystic/ATLA-restored)
+- Avatar - Four Nations Restored (https://github.com/Rystic/ATLA-restored)
 
 Suggested mods:
 
