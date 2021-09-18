@@ -5,13 +5,19 @@ Requirements:
 
 - Avatar - Four Nations Restored (https://github.com/Rystic/ATLA-restored)
 
-Suggested mods:
+----
+## Instructions
 
-- Anime Portraits (https://steamcommunity.com/sharedfiles/filedetails/?id=756755380)
-- CPR Plus (https://steamcommunity.com/sharedfiles/filedetails/?id=633413430)
 
-How to use
+- If you want to play with vanilla portraits, select:
+  - Either mod alone.
 
-- If you want to play with vanilla portraits, just download these files and use either mod
-- If you want to play with anime portraits, download Anime Portraits from the workshop as well, and activate the "Avatar - Anime Portraits" mod
-- If you want to play with CPR+, download CPRplus from the workshop and activate "Avatar - CPR Plus"
+
+- If you want to play with anime portraits, select
+  - Avatar - Anime Portraits
+  - Anime Portraits: https://steamcommunity.com/sharedfiles/filedetails/?id=756755380
+
+
+- If you want to play with CPR+, select:
+  - Avatar - CPR Plus
+  - CPR Plus: https://steamcommunity.com/sharedfiles/filedetails/?id=633413430
